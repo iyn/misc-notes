@@ -1,5 +1,7 @@
 # Programming Wisdom, work in progress
 
+## Other People
+
 Programming wisdom from articles, books, comments & videos. Learning from other's experience.
 
 * [A Million Lines of Bad Code](http://varianceexplained.org/programming/bad-code/) [(Comments on HN)](https://news.ycombinator.com/item?id=9396694)
@@ -15,3 +17,8 @@ Practical Lesson: when reading a file in Java line-by-line, don't concatenate ev
 * [The Only True Shortcut: Do Things Right the First Time](https://playfab.com/blog/2015/03/10/how-playfab-migrated-ec2-classic-vpc-zero-downtime)
 
 > Most postmortem blog posts are teary affairs explaining how something went wildly wrong and how this will not happen again, but we think postmortems are useful for any major change, whether a success or failure. It’s great to learn from mistakes, but it’s also useful to learn from successes that demonstrate due diligence to the only true shortcut: Do things right the first time.
+
+## Personal Experience
+
+* Make notes, note everything you learn and/or will use/do again.
+* Maintain simple but reasonable notes hierarchy
