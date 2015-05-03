@@ -22,4 +22,4 @@ Practical Lesson: when reading a file in Java line-by-line, don't concatenate ev
 
 * Make notes, note everything you learn and/or will use/do again.
 * Maintain simple but reasonable notes hierarchy
-* Before you start using some new cool project, think if you really need this for a particular project. The fact that a lot of people use something, doesn't mean that it can be useful for my particular case OR it's a good solution to a problem (sometimes using simple bash script may be better than learning new tool, its workflow and adding unnecessary complexity)
+* Before you start using some new cool tool/program/etc, think if you really need this for a particular project. The fact that a lot of people use something, doesn't mean that it can be useful for my particular case OR it's a good solution to a problem (sometimes using simple bash script may be better than learning new tool, its workflow and adding unnecessary complexity)
