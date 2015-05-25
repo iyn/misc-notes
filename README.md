@@ -1,4 +1,4 @@
-# Programming Wisdom, work in progress
+# Misc Notes, work in progress
 
 ## Other People
 
